@@ -1,6 +1,6 @@
  <h1 align= "center">
 
-<img src="https://raw.githubusercontent.com/DiorgeCordeiro/cypress-express-mark-L/2aa92a33182af87c300dd0e24731c83c5a8044a8/apps/markL/web/assets/logo.317f9e24.svg" alt="Mark Logo" max-width="500">
+
 
 
 Projeto de Testes Automatizados E2E (Ponta a Ponta) | Javascript | Cypress 
